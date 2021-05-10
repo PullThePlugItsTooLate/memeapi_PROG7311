@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ykWBvFobp3jdtbF0eQ5USdSjAZiD5lcoQ2LVl3UcS/O/KyGaAvC/BSMuq4gIPtgva2tv2HrJtOmlTiZiMK5oQ==",
+  "success": true,
+  "projectFilePath": "/home/ebrahim/PROG7311/memeclient/memes/memes.csproj",
+  "expectedPackageFiles": [
+    "/home/ebrahim/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
